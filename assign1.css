@@ -1,0 +1,191 @@
+body{
+	background-color: #FFDF00;
+	margin: -3px;
+}
+
+.title {
+	color: #b244b8;
+	text-align: center;
+	background-color: black; 
+	border: 5px solid black;
+}
+
+.title img {
+	float: left;
+	width: 15%;
+	height: 180px;
+	margin-right: -10px;
+}
+
+#baltimore::first-letter{
+	font-size: 2em;
+}
+
+#baltimore{
+	font-family: 'Fredoka One', cursive;
+	font-size: 36px;
+}
+
+#subtitle{
+	font-family: 'Sigmar One', cursive;
+}
+
+.navbar{
+	overflow: hidden;
+	background-color:  #b244b8;
+	text-align: left;
+	padding-bottom: 10px;
+}
+
+.navbar a{
+	text-align: center;
+	font-family: 'Fredoka One', cursive;
+	padding: 14px;
+	color: black;
+	font-size: 17px;
+	text-decoration: none;
+}
+
+.navbar a:hover{
+	background-color: black;
+	color: #b244b8;
+}
+
+.images{
+	text-align: center;
+}
+
+.images img{
+	width: 80%;
+	height: auto;
+	border: 5px solid white;
+}
+
+.slogan_box{
+	font-family: 'Permanent Marker', cursive;
+	text-align: center;
+}
+
+.home{
+	border: 10px solid #241773;
+}
+
+.home_description{
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Eagle Lake', cursive;
+	padding: 5px;
+	
+}
+
+.history{
+	border: 2px dotted #241773;
+}
+
+.history img{
+	padding-left: 5%;
+	padding-top: 2%;
+	width: 42%;
+	height: auto;
+}
+
+.history p{
+	width: 50%;
+	float: right;
+	font-size: 20px;
+	padding-top: 1%;
+	font-family: 'Handlee', cursive;
+	bac
+}
+
+.history h2 {
+	width: 50%;
+	text-align: right;
+	font-size: 24px;
+	font-family: 'Fredoka One', cursive;
+
+}
+
+.box{
+	text-align: center;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #b244b8;
+	padding-bottom: 10px;
+}
+
+
+.box img{
+	width: 65%;
+	height: auto;
+	border: 3px solid white;
+}
+
+#name {
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Racing Sans One', cursive;
+}
+
+#player_description{
+	text-align: center;
+	font-size: 24px;
+	width: 65%;
+	padding-left: 17.5%;
+	background-color: #b244b8;
+	background-clip: content-box;
+	font-family: 'Handlee', cursive;
+	margin: -2.2px;
+
+}
+
+.outterbox{
+	border: 10px solid #241773 ;
+}
+
+.game {
+	text-align: center;
+}
+
+.game h2 {
+	font-family: 'Bangers', cursive;
+	font-size: 35px;
+}
+
+.game p {
+	width: 65%;
+	padding-left: 17.5%;
+	background-clip: content-box;
+	background-color: white;
+	margin-top: -3px;
+	font-size: 20px;
+	font-family: 'Chewy', cursive;
+}
+
+.game img {
+	width: 65%;
+	height: auto;
+	border: 2px solid #b244b8;
+}
+
+.page_description{
+	text-align: center;
+	font-family: 'Sniglet', cursive;
+}
+
+.page_description h2 {
+	font-size: 32px;
+}
+
+.page_description p {
+	font-size: 24px;
+}
+
+.notes{
+	text-align: right;
+	font-family: "Lato", sans-serif;
+	padding-right: 2px;
+}
+
+
+
