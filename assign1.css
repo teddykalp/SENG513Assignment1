@@ -95,7 +95,6 @@ body{
 	font-size: 20px;
 	padding-top: 1%;
 	font-family: 'Handlee', cursive;
-	bac
 }
 
 .history h2 {
@@ -171,6 +170,9 @@ body{
 .page_description{
 	text-align: center;
 	font-family: 'Sniglet', cursive;
+	background-color: #b244b8;
+	padding: 3px;
+	border-bottom: solid 7px #241773;
 }
 
 .page_description h2 {
